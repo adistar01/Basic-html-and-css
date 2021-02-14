@@ -1,0 +1,54 @@
+.total{
+    background-color:aqua;
+    height:900px;
+}
+
+#first{
+    border:5px solid green;
+    text-align:center;
+    font-family:cursive;
+    font-weight: 500;
+    color:brown;
+    background-color:azure;
+}
+
+#second{
+    text-align:center;
+    font-size:40px;
+}
+
+#one{
+    margin: 15px 15px 15px 15px;
+}
+
+h2{
+    margin: 15px 15px 15px 15px;
+}
+
+#too{
+    margin: 15px 15px 15px 15px;
+}
+
+#H3{
+    margin: 15px 15px 15px 15px;
+}
+
+#info{
+    margin:15px 15px 15px 15px;
+    font-size:20px;
+    text-align:center;
+    font-family:sans-serif;
+}
+
+#sub{
+    width:100px;
+    text-align:center;
+    height:35px;
+    background-color:bisque;
+    border-radius: 10px;
+}
+
+#im{
+    align-content: center;
+    margin-left: 500px;
+}
